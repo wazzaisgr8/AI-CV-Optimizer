@@ -1,0 +1,5 @@
+{
+  "name": "AI CV Optimizer",
+  "description": "An AI-powered tool to analyze your CV and LinkedIn profile, then tailor it for specific job applications to increase your chances of getting an interview. Features a visual match score and version history for each application.",
+  "requestFramePermissions": []
+}
